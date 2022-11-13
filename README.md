@@ -1,2 +1,3 @@
-# holodeck-pytorch
-Implementation of a holodeck, written in Pytorch
+## Holodeck - Pytorch (wip)
+
+Implementation of a holodeck, written in Pytorch.
