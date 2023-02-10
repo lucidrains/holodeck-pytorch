@@ -11,3 +11,11 @@ Implementation of a holodeck, written in Pytorch.
     year    = {2023}
 }
 ```
+
+```bibtex
+@inproceedings{Bauer2023SpatialFS,
+    title   = {Spatial Functa: Scaling Functa to ImageNet Classification and Generation},
+    author  = {M. Bauer and Emilien Dupont and Andy Brock and Dan Rosenbaum and Jonathan Schwarz and Hyunjik Kim},
+    year    = {2023}
+}
+```
